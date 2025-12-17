@@ -1,7 +1,7 @@
 
 document.querySelector('#app2').innerHTML = `
   <div id="embeddedGame">
-    <embed type="text/html" src="../public/I-cant-stop/index.html" width="100%" height="768px">
+    <embed type="text/html" src="/I-cant-stop/index.html" width="100%" height="768px">
   </div>
   <div id="projectBlurb"> 
     <h1>I Can't Stop!</h1>

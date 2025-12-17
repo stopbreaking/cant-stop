@@ -28,7 +28,7 @@ body.home
 
 body.cant-stop
 {
-    background-image: url("../public/I-cant-stop/cantstop-wallbg.png");
+    background-image: url("/I-cant-stop/cantstop-wallbg.png");
 }
 
 a {
@@ -63,7 +63,7 @@ h1 {
     min-height: 768px;
     padding-left: 30px;
     padding-right: 30px;
-    border-image: url("../public/I-cant-stop/wallstretch.png") 33%;
+    border-image: url("/I-cant-stop/wallstretch.png") 33%;
     border-style: outset;
     border-width: 100px;
 }
